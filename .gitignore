@@ -1,0 +1,5 @@
+back-end/venv
+back-end/.idea
+back-end/.env
+back-end/__pycache__
+back-end/app.db
