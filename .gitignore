@@ -5,3 +5,4 @@ back-end/__pycache__
 back-end/app/__pycache__
 back-end/app.db
 front-end/node_modules
+back-end/migrations/__pycache__
